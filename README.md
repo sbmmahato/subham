@@ -3,7 +3,11 @@
 
 <br>
 
-## Steps to setup
+# 🚀 **Project Setup Guide**
+
+1. **Clone the Repository**  
+   ```bash
+   git clone <repository_url>
 - clone the repo
 - use *cd* command to move to the cloned folder
 - run *npm i*
