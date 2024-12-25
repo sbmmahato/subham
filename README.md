@@ -1,2 +1,2 @@
-Dashboard: "/" \n
+Dashboard: "/" <br>
 Login page: "/login"
