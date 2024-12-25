@@ -1,2 +1,2 @@
-## Dashboard: "/" <br>
-## Login page: "/login"
+## Dashboard  route: "/" <br>
+## Login page route: "/login"
