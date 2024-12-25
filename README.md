@@ -8,7 +8,15 @@
 1. **Clone the Repository**  
    ```bash
    git clone <repository_url>
-- clone the repo
-- use *cd* command to move to the cloned folder
-- run *npm i*
-- run *npm run dev*
+
+2. **Navigate to the Cloned Folder**  
+    ```bash
+   cd <cloned_folder_name>
+
+3. **Install Dependencies** 
+    ```bash
+   npm i
+
+3. **Install Dependencies**
+    ```bash
+   npm run dev
