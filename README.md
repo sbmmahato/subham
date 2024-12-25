@@ -3,7 +3,7 @@
 
 <br>
 
-# 🚀 **Project Setup Guide**
+# **Project Setup Guide**
 
 1. **Clone the Repository**  
    ```bash
